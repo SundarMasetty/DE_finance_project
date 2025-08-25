@@ -10,3 +10,7 @@ filename.txt
 node_modules/
 # Ignore data files
 *.csv
+Dataset/*.csv
+Dataset/*.parquet
+Dataset/*.csv
+Dataset/*.parquet
