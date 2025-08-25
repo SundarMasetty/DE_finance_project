@@ -5,3 +5,8 @@ __pycache__/
 *.pyc
 .vscode/
 .idea/
+filename.txt
+*.log
+node_modules/
+# Ignore data files
+*.csv
